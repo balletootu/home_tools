@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>Поиск</title>
+</head>
+<body>
+	{% if errors %}
+		<ul>
+			{% for error in errors %}
+			<li>{{ error }}</li>
+			{% endfor %}
+		</ul>
+	{% endif %}
+	<form action="" method="get">
+		<input type="text" name="q">
+		<input type="submit" name="Найти">
+	</form>
+</body>
+</html>

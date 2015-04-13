@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ru">
+<head>
+	<title>{% block title %} {% endblock %}</title>
+</head>
+<body>
+	<h1>Тестовые проекты на Django</h1>
+	{% block content %} {% endblock %}
+	{% block footer %}
+	<hr>
+	<p> Спасибо, что посетили мой сайт.</p>
+	{% endblock %}
+</body>
+</html>
