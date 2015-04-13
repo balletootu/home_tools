@@ -1,2 +1,3 @@
 # home_tools
-The draft of thoughts about the home tools.
+Мои эксперементы над Python и Django по созданию утилит для домашнего использования, 
+а так же первичные наработки для "домашнего облака".
