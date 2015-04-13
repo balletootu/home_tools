@@ -1,0 +1,527 @@
+!нужна сортировка
+2002-01-07|Anne|Private Moments|Petter Hegre|295|HEGRE-ART|11
+2002-01-13|Anne|Petite Norwegian - Part 1|Petter Hegre|40|HEGRE-ART|11
+2002-01-14|Katya|Russian Pasion|Petter Hegre|591|HEGRE-ART|11
+2002-01-16|Anne|Petite Norwegian|Petter Hegre|186|HEGRE-ART|11
+2002-01-22|Anne|On A Chair|Petter Hegre|40|HEGRE-ART|11
+2002-01-28|Katya|Pink Sofa|Petter Hegre|45|HEGRE-ART|11
+2002-01-30|Anne|Private Moments|Petter Hegre|82|HEGRE-ART|11
+2002-02-24|Luba|Nude Yoga - Part 1|Petter Hegre|26|HEGRE-ART|11
+2002-03-01|Katya|Bathing|Petter Hegre|89|HEGRE-ART|11
+2002-03-13|Katya|Angel|Petter Hegre|84|HEGRE-ART|11
+2002-03-17|Luba|On The Beach|Petter Hegre|90|HEGRE-ART|11
+2002-03-26|Vilita|Green Leaf|Petter Hegre|11|HEGRE-ART|11
+2002-03-28|Katya|Going Crazy|Petter Hegre|34|HEGRE-ART|11
+2002-03-31|Anne|Nude Yoga|Petter Hegre|43|HEGRE-ART|11
+2002-04-12|Katya|In Solarium|Petter Hegre|46|HEGRE-ART|11
+2002-04-16|Katya|Green|Petter Hegre|63|HEGRE-ART|11
+2002-04-29|Katya|Green Chair|Petter Hegre|25|HEGRE-ART|11
+2002-05-02|Katya|Home Tasks|Petter Hegre|46|HEGRE-ART|11
+2002-05-10|Katya|Hotel Hurghada|Petter Hegre|32|HEGRE-ART|11
+2002-05-15|Vilita|Orange Pillow|Petter Hegre|23|HEGRE-ART|11
+2002-05-20|Luba|Beach|Petter Hegre|45|HEGRE-ART|11
+2002-05-22|Luba|Fine Art|Petter Hegre|39|HEGRE-ART|11
+2002-06-09|Katya|Baby Boom|Petter Hegre|28|HEGRE-ART|11
+2002-06-12|Vilita|Many Faces|Petter Hegre|39|HEGRE-ART|11
+2002-06-23|Katya|Hotel Life|Petter Hegre|66|HEGRE-ART|11
+2002-07-02|Katya|Hot Summer|Petter Hegre|57|HEGRE-ART|11
+2002-07-23|Katya|In Bed|Petter Hegre|25|HEGRE-ART|11
+2002-07-28|Vilita|Dolce Gabbana|Petter Hegre|29|HEGRE-ART|11
+2002-08-05|Luba|Splashing|Petter Hegre|133|HEGRE-ART|11
+2002-08-07|Katya|In Bikini|Petter Hegre|28|HEGRE-ART|11
+2002-08-08|Anne|In Bed|Petter Hegre|52|HEGRE-ART|11
+2002-08-23|Katya|In Egypt|Petter Hegre|110|HEGRE-ART|11
+2002-08-28|Katya|Stretching|Petter Hegre|48|HEGRE-ART|11
+2002-09-01|Katya|In New Stockings|Petter Hegre|21|HEGRE-ART|11
+2002-09-06|Luba|My Love|Petter Hegre|31|HEGRE-ART|11
+2002-09-17|Vilita|Leopard|Petter Hegre|43|HEGRE-ART|11
+2002-09-21|Anne|Panorama Window|Petter Hegre|51|HEGRE-ART|11
+2002-09-23|Katya|In Red|Petter Hegre|42|HEGRE-ART|11
+2002-09-28|Vilita|Arabian Night - Part 1|Petter Hegre|40|HEGRE-ART|11
+2002-10-18|Katya|In The Woods|Petter Hegre|28|HEGRE-ART|11
+2002-10-20|Vilita|In Studio|Petter Hegre|91|HEGRE-ART|11
+2002-11-05|Luba|Ukrainian Mermaid|Petter Hegre|25|HEGRE-ART|11
+2002-11-09|Katya|Shaving|Petter Hegre|45|HEGRE-ART|11
+2002-11-18|Katya|Leopard|Petter Hegre|81|HEGRE-ART|11
+2002-11-22|Katya|Kitchen Knife|Petter Hegre|32|HEGRE-ART|11
+2002-12-05|Katya|Mirror Image|Petter Hegre|21|HEGRE-ART|11
+2002-12-07|Luba & Katti|Summer Forever|Petter Hegre|132|HEGRE-ART|11
+2002-12-10|Anne|Sweet Girl|Petter Hegre|18|HEGRE-ART|11
+2002-12-15|Vilita|Pool|Petter Hegre|56|HEGRE-ART|11
+2002-12-24|Anne|At Home|Petter Hegre|40|HEGRE-ART|11
+2002-12-27|Luba|Christmas|Petter Hegre|80|HEGRE-ART|11
+2002-12-28|Katya|Nile Hilton|Petter Hegre|59|HEGRE-ART|11
+2002-12-29|Anne|On Yellow Sofa|Petter Hegre|71|HEGRE-ART|11
+
+!нужна сортировка
+2003-01-02|Vilita|Blond Elf|Petter Hegre|56|HEGRE-ART|11
+2003-01-04|Katya|On Red Silk|Petter Hegre|15|HEGRE-ART|11
+2003-01-22|Tatiana|Dark Temptress|Petter Hegre|25|HEGRE-ART|11
+2003-02-05|Katya|Purple Lips|Petter Hegre|50|HEGRE-ART|11
+2003-02-09|Vibeke|Nude Yoga - Part 1|Petter Hegre|39|HEGRE-ART|11
+2003-02-10|Vibeke|Nude Yoga - Part 2|Petter Hegre|68|HEGRE-ART|11
+2003-02-17|Katya|Red Purse And Sunglasses|Petter Hegre|19|HEGRE-ART|11
+2003-02-20|Marina|Marina|Petter Hegre|15|HEGRE-ART|11
+2003-02-25|Nadya Shumeyko|Sunglasses|Luba Hegre|39|HEGRE-ART|11
+2003-03-07|Nastya|In Bed|Petter Hegre|36|HEGRE-ART|11
+2003-03-09|Vika|In Presidential Suite|Petter Hegre|30|HEGRE-ART|11
+2003-03-10|Tatiana|In Hammock|Petter Hegre|30|HEGRE-ART|11
+2003-03-11|Sveba|In The Mirror|Petter Hegre|26|HEGRE-ART|11
+2003-03-12|Loli|Lazy|Petter Hegre|27|HEGRE-ART|11
+2003-03-16|Katya|Strawberries|Petter Hegre|19|HEGRE-ART|11
+2003-03-23|Darina|On A Table|Petter Hegre|34|HEGRE-ART|11
+2003-03-29|Katya|Girlfriend|Petter Hegre|100|HEGRE-ART|11
+2003-04-01|Nastya|In Bathroom|Petter Hegre|36|HEGRE-ART|11
+2003-04-02|Lena|Blond|Petter Hegre|32|HEGRE-ART|11
+2003-04-05|Olga|In Chair|Petter Hegre|31|HEGRE-ART|11
+2003-04-06|Yulia|Red Scarf|Petter Hegre|25|HEGRE-ART|11
+2003-04-08|Katya|Shaving|Petter Hegre|45|HEGRE-ART|11
+2003-04-16|Polina|Posing|Petter Hegre|34|HEGRE-ART|11
+2003-04-19|Luba|In Mirror|Petter Hegre|51|HEGRE-ART|11
+2003-04-21|Vika|Getting Hot|Petter Hegre|30|HEGRE-ART|11
+2003-04-26|Katya|In Bikini|Petter Hegre|28|HEGRE-ART|11
+2003-04-30|Vilita|Vampire|Petter Hegre|40|HEGRE-ART|11
+2003-05-07|Vika|In The Shower|Petter Hegre|35|HEGRE-ART|11
+2003-05-13|Katya|Going Crazy|Petter Hegre|34|HEGRE-ART|11
+2003-05-13|Katya|Going Crazy|Petter Hegre|34|HEGRE-ART|11
+2003-05-18|Nastya|In Bathroom|Petter Hegre|36|HEGRE-ART|11
+2003-05-19|Vika|Getting Cream|Petter Hegre|36|HEGRE-ART|11
+2003-05-20|Vika|Whipping|Petter Hegre|45|HEGRE-ART|11
+2003-05-21|Vika|Smoking on the Toilet|Petter Hegre|33|HEGRE-ART|11
+2003-05-22|Vika|Wonderful|Petter Hegre|33|HEGRE-ART|11
+2003-05-24|Vika|In Sunset|Petter Hegre|67|HEGRE-ART|11
+2003-05-26|Vika|In Suspenders|Petter Hegre|37|HEGRE-ART|11
+2003-05-27|Vika|Monument|Petter Hegre|45|HEGRE-ART|11
+2003-05-29|Anahi|Artistic|Petter Hegre|27|HEGRE-ART|11
+2003-06-01|Katya|On Red Silk|Petter Hegre|15|HEGRE-ART|11
+2003-06-01|Katya|On Red Silk|Petter Hegre|15|HEGRE-ART|11
+2003-06-02|Galina & Sveba & Tana|Dropping Bathrobes|Petter Hegre|72|HEGRE-ART|11
+2003-06-03|Olga & Lena|Gets Wet|Petter Hegre|64|HEGRE-ART|11
+2003-06-07|Olea|Unveiled|Petter Hegre|25|HEGRE-ART|11
+2003-06-10|Polina|In The Closet|Petter Hegre|63|HEGRE-ART|11
+2003-06-11|Darina|In Bed|Petter Hegre|36|HEGRE-ART|11
+2003-06-12|Luba|Gypsy Girl|Petter Hegre|42|HEGRE-ART|11
+2003-06-14|Luba|In Erotic Museum|Petter Hegre|31|HEGRE-ART|11
+2003-06-15|Luba|In Bed|Petter Hegre|62|HEGRE-ART|11
+2003-06-16|Luba|Red Erotica|Petter Hegre|33|HEGRE-ART|11
+2003-06-18|Luba|First Aid|Petter Hegre|32|HEGRE-ART|11
+2003-06-21|Sveba|In The Mirror - Part 2|Petter Hegre|31|HEGRE-ART|11
+2003-06-23|Anahi|In Love Bed|Petter Hegre|36|HEGRE-ART|11
+2003-06-26|Vika|Getting Hot|Petter Hegre|30|HEGRE-ART|11
+2003-06-29|Luba|In Hotel Room|Petter Hegre|31|HEGRE-ART|11
+2003-07-06|Tatiana|In Hammock - Part 2|Petter Hegre|29|HEGRE-ART|11
+2003-07-11|Yulia|Silver Heart|Petter Hegre|53|HEGRE-ART|11
+2003-07-12|Luba|Night Shots|Petter Hegre|19|HEGRE-ART|11
+2003-07-17|Katti|In Studio - Part 2|Petter Hegre|32|HEGRE-ART|11
+2003-07-21|Katya|In Hotel Room - Part 3|Petter Hegre|32|HEGRE-ART|11
+2003-07-21|Katya|Hotel Life|Petter Hegre|66|HEGRE-ART|11
+2003-07-26|Olga & Lena & Olea|In Bed|Petter Hegre|45|HEGRE-ART|11
+2003-07-27|Vika|Variations|Petter Hegre|37|HEGRE-ART|11
+2003-07-31|Yulia|In Red|Petter Hegre|52|HEGRE-ART|11
+2003-08-04|Polina|In the Bathroom|Petter Hegre|60|HEGRE-ART|11
+2003-08-08|Katya|Red Purse and Sunglasses|Petter Hegre|19|HEGRE-ART|11
+2003-08-09|Olea|On a Stool|Petter Hegre|61|HEGRE-ART|11
+2003-08-11|Olga|Obsession|Petter Hegre|46|HEGRE-ART|11
+2003-08-15|Anahi|Nude Yoga Beach|Petter Hegre|55|HEGRE-ART|11
+2003-08-16|Luba|Love You|Petter Hegre|34|HEGRE-ART|11
+2003-08-17|Sveba|Showing it All|Petter Hegre|27|HEGRE-ART|11
+2003-08-18|Darina|In Leather Chair|Petter Hegre|50|HEGRE-ART|11
+2003-08-25|Vika|In Portugal|Petter Hegre|34|HEGRE-ART|11
+2003-08-28|Leila|Introducing Leila|Petter Hegre|27|HEGRE-ART|11
+2003-08-29|Ellen|Nude Yoga - Part 1|Petter Hegre|56|HEGRE-ART|11
+2003-09-01|Olga|In Loft Window|Petter Hegre|36|HEGRE-ART|11
+2003-09-03|Karolina|Red Apple|Petter Hegre|67|HEGRE-ART|11
+2003-09-05|Dominika|Darling|Petter Hegre|22|HEGRE-ART|11
+2003-09-06|Yulia|In Corset|Petter Hegre|57|HEGRE-ART|11
+2003-09-07|Anna & Maja|Nudists|Petter Hegre|64|HEGRE-ART|11
+2003-09-08|Kasha|Oiled|Petter Hegre|69|HEGRE-ART|11
+2003-09-11|Olga|In The Woods|Petter Hegre|52|HEGRE-ART|11
+2003-09-12|Olga|With Purse|Petter Hegre|64|HEGRE-ART|11
+2003-09-15|Olga|Old Factory|Petter Hegre|133|HEGRE-ART|11
+2003-09-17|Olga|In Bed|Petter Hegre|88|HEGRE-ART|11
+2003-09-18|Olga|Framed|Petter Hegre|35|HEGRE-ART|11
+2003-09-20|Antonina|In The Grass|Petter Hegre|50|HEGRE-ART|11
+2003-09-21|Monika|Melons|Petter Hegre|47|HEGRE-ART|11
+2003-09-22|Leila|In Stay Ups|Petter Hegre|63|HEGRE-ART|11
+2003-09-24|Luba|Bikini Babe|Petter Hegre|139|HEGRE-ART|11
+2003-09-25|Marta|Emotion|Petter Hegre|38|HEGRE-ART|11
+2003-09-28|Sonia|In Window|Petter Hegre|29|HEGRE-ART|11
+2003-09-29|Sylwia|Smoking|Petter Hegre|43|HEGRE-ART|11
+2003-10-02|Valentina|White Shoes|Petter Hegre|29|HEGRE-ART|11
+2003-10-03|Anna & Maja|In Bed|Petter Hegre|361|HEGRE-ART|11
+2003-10-03|Anna & Maja|In Bed|Petter Hegre|361|HEGRE-ART|11
+2003-10-05|Dagmara|In Amber|Petter Hegre|271|HEGRE-ART|11
+2003-10-08|Vika|Panties on Fire|Petter Hegre|316|HEGRE-ART|11
+2003-10-10|Magda|In Old Factory|Petter Hegre|68|HEGRE-ART|11
+2003-10-12|Leila|Hot and Lazy|Petter Hegre|109|HEGRE-ART|11
+2003-10-13|Karolina|On Toilet|Petter Hegre|66|HEGRE-ART|11
+2003-10-17|Dominika|Diamond|Petter Hegre|83|HEGRE-ART|11
+2003-10-19|Vilita|Vampire - Part 2|Petter Hegre|33|HEGRE-ART|11
+2003-10-20|Olea|In A Chair|Petter Hegre|40|HEGRE-ART|11
+2003-11-01|Olga & Lena|In Bed|Petter Hegre|112|HEGRE-ART|11
+2003-11-02|Elina|Devil By Night|Petter Hegre|38|HEGRE-ART|11
+2003-11-03|Sabina|Tall and Sensual|Petter Hegre|42|HEGRE-ART|11
+2003-11-06|Inga|In Window|Petter Hegre|68|HEGRE-ART|11
+2003-11-09|Valentina|Victorian Beauty|Petter Hegre|53|HEGRE-ART|11
+2003-11-12|Darina|In Leather Chair - Part 2|Petter Hegre|36|HEGRE-ART|11
+2003-11-13|Vilita|Pregnant|Petter Hegre|42|HEGRE-ART|11
+2003-11-14|Vika|Milk|Petter Hegre|82|HEGRE-ART|11
+2003-11-16|Antonina|Outdoor|Petter Hegre|43|HEGRE-ART|11
+2003-11-17|Sonia|On The Desk|Petter Hegre|35|HEGRE-ART|11
+2003-11-20|Panther|Leopard|Petter Hegre|24|HEGRE-ART|11
+2003-11-21|Anna & Maja|Together|Petter Hegre|92|HEGRE-ART|11
+2003-11-23|Luba & Inna|In a Chair|Petter Hegre|33|HEGRE-ART|11
+2003-11-25|Leila|In Shower|Petter Hegre|80|HEGRE-ART|11
+2003-11-26|Leila|In Sofa|Petter Hegre|68|HEGRE-ART|11
+2003-11-27|Leila|In The Pool|Petter Hegre|59|HEGRE-ART|11
+2003-11-28|Leila|In Hammock|Petter Hegre|45|HEGRE-ART|11
+2003-11-29|Leila|British Sugarbabe|Petter Hegre|33|HEGRE-ART|11
+2003-11-30|Leila|In Bathroom|Petter Hegre|42|HEGRE-ART|11
+2003-12-01|Olga|Panties Going Off|Petter Hegre|62|HEGRE-ART|11
+2003-12-04|Zalina|On Arabic Table - Part 1|Petter Hegre|47|HEGRE-ART|11
+2003-12-05|Vita|Red Bikini|Petter Hegre|43|HEGRE-ART|11
+2003-12-06|Vika|Smoking on the Toilet - Part 2|Petter Hegre|27|HEGRE-ART|11
+2003-12-07|Vita & Elena|Showering|Petter Hegre|59|HEGRE-ART|11
+2003-12-08|Tania|In Mirror|Petter Hegre|44|HEGRE-ART|11
+2003-12-10|Viola|Showering|Petter Hegre|64|HEGRE-ART|11
+2003-12-12|Sabina|Spreads|Petter Hegre|49|HEGRE-ART|11
+2003-12-15|Anahi|In Love Bed - Part 2|Petter Hegre|66|HEGRE-ART|11
+2003-12-18|Dominika|On Red Sofa|Petter Hegre|49|HEGRE-ART|11
+2003-12-20|Elina|Purple Panties|Petter Hegre|65|HEGRE-ART|11
+2003-12-21|Vika|Getting Creamed - Part 2|Petter Hegre|56|HEGRE-ART|11
+2003-12-25|Inga|On The Floor|Petter Hegre|64|HEGRE-ART|11
+
+!нужна сортировка. многого нет!!!
+2004-01-01|Katya|Green Chair|Petter Hegre|25|HEGRE-ART|11
+2004-01-02|Luba|Monroe|Petter Hegre|120|HEGRE-ART|11
+2004-01-03|Inna|Beauty|Petter Hegre|47|HEGRE-ART|11
+2004-01-04|Leila|The Seducer|Petter Hegre|50|HEGRE-ART|11
+2004-01-05|Anna & Maja|On A Mirror|Petter Hegre|41|HEGRE-ART|11
+2004-01-07|Elina|Baby Blue Skirt|Petter Hegre|72|HEGRE-ART|11
+2004-01-08|Elina|Erotica|Petter Hegre|40|HEGRE-ART|11
+2004-01-09|Elina|Leather Coat|Petter Hegre|55|HEGRE-ART|11
+2004-01-10|Elina|Getting Massage|Petter Hegre|41|HEGRE-ART|11
+2004-01-11|Elina|Ripped Fishnet|Petter Hegre|68|HEGRE-ART|11
+2004-01-12|Elina|Showering|Petter Hegre|40|HEGRE-ART|11
+2004-01-15|Ada|Eat Your Heart|Petter Hegre|48|HEGRE-ART|11
+2004-01-16|Vita|The Stripper|Petter Hegre|66|HEGRE-ART|11
+2004-01-17|Ellen|Nude Yoga - Part 2|Petter Hegre|76|HEGRE-ART|11
+2004-01-18|Karolina|Undressing|Petter Hegre|83|HEGRE-ART|11
+2004-01-19|Inga|Inga's Shower Scenes|Petter Hegre|95|HEGRE-ART|11
+2004-01-22|Kasha|Tan Addiction|Petter Hegre|61|HEGRE-ART|11
+2004-01-23|Magda|In The Woods|Petter Hegre|49|HEGRE-ART|11
+2004-01-25|Vika|On The Beach|Petter Hegre|68|HEGRE-ART|11
+2004-01-26|Marta|Masturbating|Petter Hegre|87|HEGRE-ART|11
+2004-01-29|Monika|Mass Seduction|Petter Hegre|48|HEGRE-ART|11
+2004-01-30|Sabina|Skylight|Petter Hegre|60|HEGRE-ART|11
+2004-02-01|Anna & Maja|Water Nymphs|Petter Hegre|29|HEGRE-ART|11
+2004-02-02|Antonina|Brick Wall|Petter Hegre|73|HEGRE-ART|11
+2004-02-04|Tania|Couch Potato|Petter Hegre|45|HEGRE-ART|11
+2004-02-05|Zalina|Extreme Closeups|Petter Hegre|43|HEGRE-ART|11
+2004-02-06|Sylwia|Silky Soft|Petter Hegre|59|HEGRE-ART|11
+2004-02-08|Viola|In Bed|Petter Hegre|59|HEGRE-ART|11
+2004-02-11|Valentina|In Bed|Petter Hegre|65|HEGRE-ART|11
+2004-02-12|Sylwia & Marta & Domenika|Triple X|Petter Hegre|51|HEGRE-ART|11
+2004-02-13|Sonja|In Light Box|Petter Hegre|39|HEGRE-ART|11
+2004-02-15|Leila|Ice Cream Shower|Petter Hegre|66|HEGRE-ART|11
+2004-02-16|Dominika & Sylwia|Best Friends|Petter Hegre|51|HEGRE-ART|11
+2004-02-18|Nastik & Elina|Intimate|Petter Hegre|63|HEGRE-ART|11
+2004-02-19|Nastik|Undressing|Petter Hegre|120|HEGRE-ART|11
+2004-02-20|Nastik|On Chair|Petter Hegre|57|HEGRE-ART|11
+2004-02-21|Nastik|On The Stairs|Petter Hegre|48|HEGRE-ART|11
+2004-02-22|Nastik|In Window Light|Petter Hegre|50|HEGRE-ART|11
+2004-02-23|Nastik|Takes Off Her Coat|Petter Hegre|84|HEGRE-ART|11
+2004-02-25|Vika|Glass Wall|Petter Hegre|31|HEGRE-ART|11
+2004-02-26|Sveba|In The Mirror - Part 3|Petter Hegre|29|HEGRE-ART|11
+2004-02-28|Luba|In Window Light|Petter Hegre|62|HEGRE-ART|11
+2004-02-29|Olga & Lena & Olea|In Bed - Part 2|Petter Hegre|74|HEGRE-ART|11
+2004-03-01|Nastya|In Bed - Part 2|Petter Hegre|72|HEGRE-ART|11
+2004-03-04||Casting Polaroids|Petter Hegre|41|HEGRE-ART|11
+2004-03-05|Galina|In Bed|Petter Hegre|64|HEGRE-ART|11
+2004-03-07|Vika|On Tan Bed|Petter Hegre|33|HEGRE-ART|11
+2004-03-08|Luba|Orange Pillow|Petter Hegre|24|HEGRE-ART|11
+2004-03-10|Viktoria|Natural Red Head|Petter Hegre|77|HEGRE-ART|11
+2004-03-11|Tatina|On The Loft|Petter Hegre|44|HEGRE-ART|11
+2004-03-12|Anna & Maja|On River Bank|Petter Hegre|46|HEGRE-ART|11
+2004-03-14|Elina|In Bed|Petter Hegre|72|HEGRE-ART|11
+2004-03-15|Darina|In Bed - Part 2|Petter Hegre|53|HEGRE-ART|11
+2004-03-17|Galina & Sveba & Tana|In Bed|Petter Hegre|22|HEGRE-ART|11
+2004-03-19|Karola|On The Table|Petter Hegre|61|HEGRE-ART|11
+2004-03-20|Kasha|In Mirror|Petter Hegre|62|HEGRE-ART|11
+2004-03-21|Magda|Against Wall|Petter Hegre|19|HEGRE-ART|11
+2004-03-22|Monika|On A Chair|Petter Hegre|39|HEGRE-ART|11
+2004-03-24|Samosa|Eating Apple|Petter Hegre|41|HEGRE-ART|11
+2004-03-25|Marta|In Shower|Petter Hegre|5|HEGRE-ART|11
+2004-03-26|Sylwia|In Oval Mirror|Petter Hegre|61|HEGRE-ART|11
+2004-03-29|Vita|Pink On Floor|Petter Hegre|64|HEGRE-ART|11
+2004-03-31|Zalina|Radiator|Petter Hegre|47|HEGRE-ART|11
+2004-04-01|Nastik|On The Sofa|Petter Hegre|53|HEGRE-ART|11
+2004-04-02|Olga|At Lake|Petter Hegre|78|HEGRE-ART|11
+2004-04-03|Viola|Pomegranate|Petter Hegre|49|HEGRE-ART|11
+2004-04-04|Elina|In Window|Petter Hegre|41|HEGRE-ART|11
+2004-04-05|Karola|Dripping|Petter Hegre|74|HEGRE-ART|11
+2004-04-07|Katarina|Eating Cake|Petter Hegre|91|HEGRE-ART|11
+2004-04-08|Katarina|In Arch|Petter Hegre|54|HEGRE-ART|11
+2004-04-09|Katarina|In Bed|Petter Hegre|110|HEGRE-ART|11
+2004-04-10|Katarina|In Chair|Petter Hegre|52|HEGRE-ART|11
+2004-04-11|Katarina|In Jacuzzi|Petter Hegre|65|HEGRE-ART|11
+2004-04-12|Katarina|In The Window|Petter Hegre|56|HEGRE-ART|11
+2004-04-14|Vika|Riding|Petter Hegre|67|HEGRE-ART|11
+2004-04-15|Valentina|Showering|Petter Hegre|80|HEGRE-ART|11
+2004-04-16|Ellen|The Naked Chair - Part 3|Petter Hegre|60|HEGRE-ART|11
+2004-04-17|Marta|Eating Chocolate|Petter Hegre|83|HEGRE-ART|11
+2004-04-21|Anna & Maja|In Deep Water|Petter Hegre|35|HEGRE-ART|11
+2004-04-22|Dominika & Sylwia|Smoking|Petter Hegre|50|HEGRE-ART|11
+2004-04-24|Leila|Wooden Door|Petter Hegre|39|HEGRE-ART|11
+2004-04-25|Viktoria|In Fur Coat|Petter Hegre|45|HEGRE-ART|11
+2004-04-26|Olesya|White Pearls|Petter Hegre|63|HEGRE-ART|11
+2004-04-28|Sylwia|In Bathtub|Petter Hegre|47|HEGRE-ART|11
+2004-04-29|Olga|On High Tech Location|Petter Hegre|54|HEGRE-ART|11
+2004-05-01|Vika|Sailing|Petter Hegre|61|HEGRE-ART|11
+2004-05-02|Leila|Outdoors|Petter Hegre|86|HEGRE-ART|11
+2004-05-03|Maja|First Session|Petter Hegre|33|HEGRE-ART|11
+2004-05-05|Sylwia|In Bed|Petter Hegre|60|HEGRE-ART|11
+2004-05-06|Monika|Sitting Nude|Petter Hegre|31|HEGRE-ART|11
+2004-05-08|Kasha|In Bed|Petter Hegre|71|HEGRE-ART|11
+2004-05-09|Anna|Stripping|Petter Hegre|64|HEGRE-ART|11
+2004-05-10|Lza|In Pink Dress|Petter Hegre|50|HEGRE-ART|11
+2004-05-12|Olesya|Undressing|Petter Hegre|130|HEGRE-ART|11
+2004-05-13|Olesya|In D&amp;G Skirt|Petter Hegre|68|HEGRE-ART|11
+2004-05-14|Olesya|Outdoors|Petter Hegre|7|HEGRE-ART|11
+2004-05-15|Olesya|White Panties|Petter Hegre|65|HEGRE-ART|11
+2004-05-16|Olesya|In Her Coat|Petter Hegre|84|HEGRE-ART|11
+2004-05-17|Olesya|In Chair|Petter Hegre|60|HEGRE-ART|11
+2004-05-19|Henrietta|In Leather Chair|Petter Hegre|31|HEGRE-ART|11
+2004-05-20|Dagmara|Undressing|Petter Hegre|82|HEGRE-ART|11
+2004-05-21|Elisabeth|Ballerina|Petter Hegre|100|HEGRE-ART|11
+2004-05-22|Suzana|On A Stool|Petter Hegre|49|HEGRE-ART|11
+2004-05-23|Tatina|In Blond Wig|Petter Hegre|57|HEGRE-ART|11
+2004-05-24|Tatiane|Army|Petter Hegre|44|HEGRE-ART|11
+2004-05-26|Henrietta|On White Sheets|Petter Hegre|60|HEGRE-ART|11
+2004-05-28|Henrietta|In Red|Petter Hegre|105|HEGRE-ART|11
+2004-05-30|Henrietta|On Stairs|Petter Hegre|29|HEGRE-ART|11
+2004-05-31|Henrietta|Henrietta's Striptease|Petter Hegre|49|HEGRE-ART|11
+2004-06-02|Luba & Samosa|Together|Petter Hegre|64|HEGRE-ART|11
+2004-06-03|Loli|In Bathroom|Petter Hegre|57|HEGRE-ART|11
+2004-06-04|Sonja|On A Chair|Petter Hegre|54|HEGRE-ART|11
+2004-06-05|Vika|Bodylotion|Petter Hegre|69|HEGRE-ART|11
+2004-06-06|Elisabeth|In Hotpants|Petter Hegre|107|HEGRE-ART|11
+2004-06-07|Antonina|Green Leaf|Petter Hegre|64|HEGRE-ART|11
+2004-06-09|Elina|In Black|Petter Hegre|93|HEGRE-ART|11
+2004-06-10|Monika|In Bed|Petter Hegre|38|HEGRE-ART|11
+2004-06-12|Nastya|In Moscow Hotel|Petter Hegre|42|HEGRE-ART|11
+2004-06-13|Henrietta|In The Kitchen|Petter Hegre|59|HEGRE-ART|11
+2004-06-14|Suzana|In Bed|Petter Hegre|97|HEGRE-ART|11
+2004-06-16|Vika|Red Wine|Petter Hegre|96|HEGRE-ART|11
+2004-06-17|Vika|Flower Power|Petter Hegre|65|HEGRE-ART|11
+2004-06-18|Vika|Black String|Petter Hegre|67|HEGRE-ART|11
+2004-06-19|Vika|Climbing|Petter Hegre|49|HEGRE-ART|11
+2004-06-20|Vika|In The Countryside|Petter Hegre|77|HEGRE-ART|11
+2004-06-21|Vika|Black Rocks|Petter Hegre|77|HEGRE-ART|11
+2004-06-22|Tina|Tight And Toned|Petter Hegre|58|HEGRE-ART|11
+2004-06-23|Olga|Posing In Bed|Petter Hegre|106|HEGRE-ART|11
+2004-06-24|Elina|Rock Bitch|Petter Hegre|53|HEGRE-ART|11
+2004-06-26|Veronika|Watermelon|Petter Hegre|71|HEGRE-ART|11
+2004-06-27|Alexia|In The Kitchen|Petter Hegre|42|HEGRE-ART|11
+2004-06-28|Valentina|On The Floor|Petter Hegre|55|HEGRE-ART|11
+2004-07-01|Elisabeth|Bathtub Beauty|Petter Hegre|65|HEGRE-ART|11
+2004-07-02|Katarina|On Glass Table|Petter Hegre|46|HEGRE-ART|11
+2004-07-03|Inna|Showering|Petter Hegre|57|HEGRE-ART|11
+2004-07-05|Lza|In Bathtub|Petter Hegre|68|HEGRE-ART|11
+2004-07-14|Luba|Showering|Petter Hegre|63|HEGRE-ART|11
+2004-07-14|Luba|Showering|Petter Hegre|76|HEGRE-ART|11
+2004-07-15|Annette|Ballerina|Petter Hegre|17|HEGRE-ART|11
+2004-07-16|Elisabeth|On The Floor|Petter Hegre|77|HEGRE-ART|11
+2004-07-17|Katarina|On Green Sofa|Petter Hegre|74|HEGRE-ART|11
+2004-07-18|Tina|Mirror Show|Petter Hegre|68|HEGRE-ART|11
+2004-07-19|Henrietta|Colored Glass|Petter Hegre|27|HEGRE-ART|11
+2004-07-20|Anna|Showing It All|Petter Hegre|50|HEGRE-ART|11
+2004-07-21|Veronika|Red Panties|Petter Hegre|64|HEGRE-ART|11
+2004-07-22|Marta|Ice Cubes|Petter Hegre|33|HEGRE-ART|11
+2004-07-23|Inga|Wet Top|Petter Hegre|55|HEGRE-ART|11
+2004-07-24|Elina|Colorful|Petter Hegre|55|HEGRE-ART|11
+2004-07-25|Sabina|Taking A Bath|Petter Hegre|52|HEGRE-ART|11
+2004-07-26|Leila|Outdoors - Part 2|Petter Hegre|58|HEGRE-ART|11
+2004-07-27|Mila|Blond Baby|Petter Hegre|40|HEGRE-ART|11
+2004-07-28|Zoya|On A Table|Petter Hegre|21|HEGRE-ART|11
+2004-07-29|Viola|Flashing|Petter Hegre|29|HEGRE-ART|11
+2004-07-30|Viktoria|Undressing|Petter Hegre|108|HEGRE-ART|11
+2004-07-31|Polina|In Bed|Petter Hegre|59|HEGRE-ART|11
+2004-08-01|Annette|American Ballerina|Petter Hegre|43|HEGRE-ART|11
+2004-08-02|Olga & Lena|Bathing|Petter Hegre|93|HEGRE-ART|11
+2004-08-03|Luba|In Burj Al Arab|Petter Hegre|57|HEGRE-ART|11
+2004-08-04|Luba|Golden Girl|Petter Hegre|29|HEGRE-ART|11
+2004-08-05|Luba|Isymphony|Petter Hegre|30|HEGRE-ART|11
+2004-08-06|Luba|Military Miss|Petter Hegre|40|HEGRE-ART|11
+2004-08-07|Luba|In LA|Petter Hegre|108|HEGRE-ART|11
+2004-08-08|Luba|Under Palms|Petter Hegre|20|HEGRE-ART|11
+2004-08-09|Luba|Lite|Petter Hegre|36|HEGRE-ART|11
+2004-08-10|Luba|Stripes|Petter Hegre|40|HEGRE-ART|11
+2004-08-13|Zalina|In Bed|Petter Hegre|65|HEGRE-ART|11
+2004-08-14|Tatiane|In Caps|Petter Hegre|36|HEGRE-ART|11
+2004-08-15|Veronika|Valentine|Petter Hegre|74|HEGRE-ART|11
+2004-08-16|Tania|In Bed|Petter Hegre|120|HEGRE-ART|11
+2004-08-18|Nastya|On A Chair|Petter Hegre|62|HEGRE-ART|11
+2004-08-19|Olesya|Pearl Girl|Petter Hegre|59|HEGRE-ART|11
+2004-08-20|Olea|On A Desk|Petter Hegre|64|HEGRE-ART|11
+2004-08-21|Elisabeth|On White Sheet|Petter Hegre|65|HEGRE-ART|11
+2004-08-22|Darina|In Jacuzzi|Petter Hegre|66|HEGRE-ART|11
+2004-08-24|Anahi|Master Of Yoga|Petter Hegre|89|HEGRE-ART|11
+2004-08-25|Sabina|On A Chair|Petter Hegre|50|HEGRE-ART|11
+2004-08-26|Antonina|In Sand|Petter Hegre|45|HEGRE-ART|11
+2004-08-28|Dominika|Showering|Petter Hegre|39|HEGRE-ART|11
+2004-08-29|Tatiane|On The Stairs|Petter Hegre|47|HEGRE-ART|11
+2004-08-30|Katarina|With Towel|Petter Hegre|87|HEGRE-ART|11
+2004-08-31|Loli|In Bed|Petter Hegre|42|HEGRE-ART|11
+2004-09-03|Tatiane|In Leather Chair|Petter Hegre|65|HEGRE-ART|11
+2004-09-04|Mila|Muse|Petter Hegre|26|HEGRE-ART|11
+2004-09-08|Strisha|Table Dance|Petter Hegre|84|HEGRE-ART|11
+2004-09-09|Elisabeth|In Hotel Bed|Petter Hegre|44|HEGRE-ART|11
+2004-09-10|Samosa|Simple Nudes|Petter Hegre|27|HEGRE-ART|11
+2004-09-11|Iris|Bathing|Petter Hegre|75|HEGRE-ART|11
+2004-09-13|Suzana|Blue Staircase|Petter Hegre|90|HEGRE-ART|11
+2004-09-14|Olga|Protecting The Forest|Petter Hegre|34|HEGRE-ART|11
+2004-09-16|Kasha|On A Mirror|Petter Hegre|61|HEGRE-ART|11
+2004-09-17|Olesya|White Panties 2|Petter Hegre|49|HEGRE-ART|11
+2004-09-18|Elina & Vita|Elina Massaging Vita|Petter Hegre|48|HEGRE-ART|11
+2004-09-19|Iris|On A Red Sofa|Petter Hegre|69|HEGRE-ART|11
+2004-09-20|Olea|On Hotel Stairs|Petter Hegre|47|HEGRE-ART|11
+2004-09-21|Tatiane|First Session|Petter Hegre|66|HEGRE-ART|11
+2004-09-22|Aliona|White Purse|Petter Hegre|35|HEGRE-ART|11
+2004-09-23|Alexia|A Day In The Life|Petter Hegre|83|HEGRE-ART|11
+2004-09-24|Susha|Sweet And Sensual|Petter Hegre|58|HEGRE-ART|11
+2004-09-25|Veronika|Washingmachine|Petter Hegre|56|HEGRE-ART|11
+2004-09-26|Iris|In Bed|Petter Hegre|46|HEGRE-ART|11
+2004-09-27|Sabina|In Bed|Petter Hegre|90|HEGRE-ART|11
+2004-09-28|Zoya|Flirting|Petter Hegre|49|HEGRE-ART|11
+2004-09-30|Polina|Between Doors|Petter Hegre|34|HEGRE-ART|11
+2004-10-01|Tatiane|Chocolate Girl|Petter Hegre|14|HEGRE-ART|11
+2004-10-02|Iris|Red And Green|Petter Hegre|50|HEGRE-ART|11
+2004-10-12|Dagmara|Oiled Up|Petter Hegre|29|HEGRE-ART|11
+2004-10-13|Vika|Red Bikini|Petter Hegre|93|HEGRE-ART|11
+2004-10-14|Darina|On Sofa|Petter Hegre|69|HEGRE-ART|11
+2004-10-15|Luba|In Pink Shirt|Petter Hegre|71|HEGRE-ART|11
+2004-10-16|Aliona|Aliona And Her Lada|Petter Hegre|29|HEGRE-ART|11
+2004-10-18|Elisabeth|In Blue Bathroom|Petter Hegre|50|HEGRE-ART|11
+2004-10-19|Zalina|On Round Table|Petter Hegre|31|HEGRE-ART|11
+2004-10-20|Mila|On Green Chair|Petter Hegre|67|HEGRE-ART|11
+2004-10-22|Luba & Tana|Russian Army|Petter Hegre|73|HEGRE-ART|11
+2004-10-23|Olga|Soft Light|Petter Hegre|4|HEGRE-ART|11
+2004-10-24|Susha|In Bed|Petter Hegre|66|HEGRE-ART|11
+2004-10-25|Valentina|On Washer|Petter Hegre|64|HEGRE-ART|11
+2004-10-26|Vika|Classic|Petter Hegre|72|HEGRE-ART|11
+2004-10-27|Iris|Red Chair|Petter Hegre|33|HEGRE-ART|11
+2004-10-28|Inga|Bed Beauty|Petter Hegre|84|HEGRE-ART|11
+2004-10-29|Aliona|Country Girl|Petter Hegre|53|HEGRE-ART|11
+2004-10-30|Elina|Tie Me Up|Petter Hegre|58|HEGRE-ART|11
+2004-10-31|Samosa|Super Sensual|Petter Hegre|45|HEGRE-ART|11
+2004-11-02|Veronika|In Tan Top|Petter Hegre|44|HEGRE-ART|11
+2004-11-03|Leka|On White Sheets|Petter Hegre|61|HEGRE-ART|11
+2004-11-04|Sylwia & Dominika|In Bed|Petter Hegre|70|HEGRE-ART|11
+2004-11-05|Lza|In Purple Dress|Petter Hegre|48|HEGRE-ART|11
+2004-11-06|Elisabeth|Window Ballet|Petter Hegre|42|HEGRE-ART|11
+2004-11-07|Elina & Vita|Showering - Part 2|Petter Hegre|75|HEGRE-ART|11
+2004-11-09|Tina|Loves Pain|Petter Hegre|38|HEGRE-ART|11
+2004-11-10|Fabi|Lingerie|Petter Hegre|52|HEGRE-ART|11
+2004-11-12|Dominika|In Bed|Petter Hegre|62|HEGRE-ART|11
+2004-11-13|Luba|In Sunset|Petter Hegre|38|HEGRE-ART|11
+2004-11-14|Vika|Flipping The Finger|Petter Hegre|53|HEGRE-ART|11
+2004-11-15|Zalina|Washing Machine|Petter Hegre|76|HEGRE-ART|11
+2004-11-16|Kasha|Dark Mistress|Petter Hegre|59|HEGRE-ART|11
+2004-11-17|Radka|Purple And Orange|Petter Hegre|37|HEGRE-ART|11
+2004-11-18|Strisha|Silhouette|Petter Hegre|49|HEGRE-ART|11
+2004-11-19|Leka|Wet And Wild|Petter Hegre|48|HEGRE-ART|11
+2004-11-20|Zoya|Innocent Dream|Petter Hegre|70|HEGRE-ART|11
+2004-11-21|Suzie|Student|Petter Hegre|23|HEGRE-ART|11
+2004-11-22|Karola|Sensual Touch|Petter Hegre|45|HEGRE-ART|11
+2004-11-25|Fabi|On Metal Stool|Petter Hegre|21|HEGRE-ART|11
+2004-11-27|Aliona|In The Lake|Petter Hegre|22|HEGRE-ART|11
+2004-11-30|Luba|Vintage|Petter Hegre|20|HEGRE-ART|11
+2004-12-01|Sofia|Red And Blue|Petter Hegre|80|HEGRE-ART|11
+2004-12-03|Viktoria|In The Bathroom|Petter Hegre|43|HEGRE-ART|11
+2004-12-05|Strisha|On A Chair|Petter Hegre|49|HEGRE-ART|11
+2004-12-07|Annette|Red Chair|Petter Hegre|38|HEGRE-ART|11
+2004-12-07|Annette|Red Chair|Petter Hegre|38|HEGRE-ART|11
+2004-12-09|Elina|In White|Petter Hegre|58|HEGRE-ART|11
+2004-12-10|Kasha|In The Blue|Petter Hegre|129|HEGRE-ART|11
+2004-12-11|Vika|In Bed|Petter Hegre|184|HEGRE-ART|11
+2004-12-12|Radka|Purple Pleasure|Petter Hegre|34|HEGRE-ART|11
+2004-12-13|Luba|Plastic Skirt|Petter Hegre|57|HEGRE-ART|11
+2004-12-14|Susha|Reflections|Petter Hegre|41|HEGRE-ART|11
+2004-12-16|Suzie|In Hotel Room|Petter Hegre|34|HEGRE-ART|11
+2004-12-17|Sofia|Pink Panties|Petter Hegre|41|HEGRE-ART|11
+2004-12-18|Fabi|Santa|Petter Hegre|117|HEGRE-ART|11
+2004-12-19|Sonja|Drinking Red Wine|Petter Hegre|65|HEGRE-ART|11
+2004-12-20|Luba|The Ultimate Female?|Petter Hegre|68|HEGRE-ART|11
+2004-12-21|Radka|In Bed|Petter Hegre|60|HEGRE-ART|11
+2004-12-23|Nastik|Being Nasty|Petter Hegre|64|HEGRE-ART|11
+2004-12-24|Fabi|Sexy Xmas|Petter Hegre|45|HEGRE-ART|11
+2004-12-26|Sofia|Like A Virgin|Petter Hegre|130|HEGRE-ART|11
+2004-12-27|Iris|Red Passion|Petter Hegre|77|HEGRE-ART|11
+2004-12-29|Vita & Elina|Salt N Pepper|Petter Hegre|26|HEGRE-ART|11
+2004-12-30|Vika|Shaving|Petter Hegre|59|HEGRE-ART|11
+2004-12-31|Mila|Magic|Petter Hegre|49|HEGRE-ART|11
+
+2005 - complete!!!! (на TheNude есть упоминания про следующие сеты некоторые с пометкой removed, некоторые без, на оф сайте этих сетов нет)
+2005-10-05|Lune|Baking Bread|Petter Hegre|86|HEGRE-ART|11			- removed
+2005-11-10|Alesya|By The Window|Petter Hegre|30|HEGRE-ART|11			- removed
+2005-12-01|Ann & Juliya & Nelly|Pure Nudes|Petter Hegre|36|HEGRE-ART|11		- removed
+2005-12-09|Polya & Yulia|Perfect Twins|Petter Hegre|61|HEGRE-ART|11
+
+
+2006 - complete!!!! (на TheNude есть упоминания про следующие сеты с пометкой removed, но на оф сайте их уже нет)
+2006-01-20|Luba|Pink Corset|Petter Hegre|55|HEGRE-ART|11			- removed
+2006-04-25|Ann & Juliya & Nelly|Photo Break|Petter Hegre|56|HEGRE-ART|11	- removed
+2006-06-12|Ann & Juliya & Nelly|Trio|Petter Hegre|50|HEGRE-ART|11		- removed
+2006-07-05|Ann & Juliya|Partner Models|Petter Hegre|52|HEGRE-ART|11		- removed
+2006-08-31|Lune|Tuscan Morning|Petter Hegre|28|HEGRE-ART|11			- removed
+2006-10-05|Ann & Juliya & Nelly|Supermodels|Petter Hegre|69|HEGRE-ART|11	- removed
+2006-10-24|Lune|Monumental|Petter Hegre|44|HEGRE-ART|11				- removed
+2006-12-04|Ann & Juliya & Nelly|3 Ladies|Petter Hegre|59|HEGRE-ART|11		- removed
+2006-12-22|Lune|Stomping|Petter Hegre|26|HEGRE-ART|11				- removed
+
+2007. - complete!!!!
+
+2008. no exist:
+2008-06-15|Yanna|On The Beach|Petter Hegre|35|HEGRE-ART|11
+2008-06-16|Nika|Kitchen Table|Petter Hegre|84|HEGRE-ART|11
+2008-06-18|Olena O|Double Exposure|Petter Hegre|93|HEGRE-ART|11
+2008-06-19|Evi|Hotter Than Hell|Petter Hegre|85|HEGRE-ART|11
+
+2009. no exist:
+2009-09-01|Jane|French Opening|Petter Hegre|31|HEGRE-ART|11
+2009-09-02|Yanna|On The Balcony|Petter Hegre|31|HEGRE-ART|11
+2009-09-04|Suzie Carina|Pink|Petter Hegre|53|HEGRE-ART|11
+2009-09-05|Brigi|Mexican Cenote|Petter Hegre|52|HEGRE-ART|11
+2009-09-07|Ama|White Suit|Petter Hegre|49|HEGRE-ART|11
+2009-09-11|Christiana|Erotica|Petter Hegre|67|HEGRE-ART|11
+2009-09-12|Suzie|Red Bikini|Petter Hegre|79|HEGRE-ART|11
+2009-09-13|Olena O|Cream Soap|Petter Hegre|67|HEGRE-ART|11
+2009-09-14|Thea|German Gem|Petter Hegre|90|HEGRE-ART|11
+2009-09-15|Flora|Blue Blouse|Petter Hegre|41|HEGRE-ART|11
+2009-09-18|Dominika C|Red Panties|Petter Hegre|75|HEGRE-ART|11
+2009-09-21|Yanna|Wet And Red|Petter Hegre|51|HEGRE-ART|11
+2009-09-22|Suzie|Sandy|Petter Hegre|36|HEGRE-ART|11
+2009-09-23|Olena O|Purple Shoes|Petter Hegre|46|HEGRE-ART|11
+2009-09-27|Christiana & Yanna|Acrobats|Petter Hegre|76|HEGRE-ART|11
+2009-09-30|Dominika C|Shoes In Bed|Petter Hegre|33|HEGRE-ART|11
+2009-10-16|Marlene|Pussy Gymnastics|Petter Hegre|56|HEGRE-ART|11
+
+2010 - complete!!!!
+2011. no exist:
+2011-04-10|Silvie|Bushy View|Petter Hegre|76|HEGRE-ART|11
+2011-04-16|Elvira|Red Chair Part2|Petter Hegre|106|HEGRE-ART|11
+2011-04-26 Tasha Tall And Toned						-removed
+2011-04-30|Silvie|Blue Beach Bush|Petter Hegre|96|HEGRE-ART|11
+
+2012 - complete!!!!
+2013 - complete!!!!
+2014-01 - 2014-09 - complete!!!!
+
+new
+2014-10-01|Simone|Creamed|Petter Hegre||HEGRE-ART|11
+2014-10-02|Emily|Green Velvet|Petter Hegre||HEGRE-ART|11
+2014-10-03|Rose|Body Building|Petter Hegre||HEGRE-ART|11
+2014-10-04|Katia|Fantasia|Petter Hegre||HEGRE-ART|11
+2014-10-05|Luba|Freestyle|Petter Hegre||HEGRE-ART|11
+2014-10-06||The Naked Surfer|Petter Hegre||HEGRE-ART|11

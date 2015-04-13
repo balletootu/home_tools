@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Плейлист</title>
+	<trackList>
+		<track>
+			<location>7000268ed32033322c8ba36d51c80a4faf113505</location>
+			<title> tvg-name=&quot;Спорт 1 HD&quot;</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=1</vlc:option>
+				<vlc:option>deinterlace-mode=blend</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>2d1cf92da3db84b155609def60cb16fc22a5e6c9</location>
+			<title> tvg-name=&quot;СТБ&quot;</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=1</vlc:option>
+				<vlc:option>deinterlace-mode=blend</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>c0e04202b4b42ef54ec86e2c0c9f4e5460e4ba24</location>
+			<title> tvg-name=&quot;Спорт 1&quot;</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=1</vlc:option>
+				<vlc:option>deinterlace-mode=blend</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>9bda85e518ce51ff8fb1246dd474b7739147bcc8</location>
+			<title>tvg-name=&quot;Россия 2&quot;</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=1</vlc:option>
+				<vlc:option>deinterlace-mode=blend</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:node title="torrent_tv.m3u">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+		</vlc:node>
+	</extension>
+</playlist>

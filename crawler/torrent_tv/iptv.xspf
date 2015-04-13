@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
+	<title>2КОМ ТВ</title>
+	<info>http://www.2kom.ru/home/iptv/playlists_vlc/</info>
+	<location>http://2kom.tv/channels/iptv.xspf</location>
+	<identifier>201410191959</identifier>
+	<image>http://www.2kom.ru/images/Logo.png</image>
+	<trackList>
+		<track>
+			<title>Первый канал</title>
+			<album>Обо всем</album>
+			<annotation>Первый канал</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/27/pervyy_kanal.jpg</image>
+			<location>udp://@239.64.64.24:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Россия 1</title>
+			<album>Обо всем</album>
+			<annotation>Россия 1</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/9/rossiya_1.jpg</image>
+			<location>udp://@239.64.64.9:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>ТВ Центр</title>
+			<album>Обо всем</album>
+			<annotation>ТВ Центр</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/7/tv_centr.jpg</image>
+			<location>udp://@239.64.64.7:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>НТВ</title>
+			<album>Обо всем</album>
+			<annotation>НТВ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/6/ntv.jpg</image>
+			<location>udp://@239.64.64.6:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>5 Канал</title>
+			<album>Обо всем</album>
+			<annotation>5 Канал</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/21/5_kanal.jpg</image>
+			<location>udp://@239.64.64.21:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>ТНТ</title>
+			<album>Развлекательные</album>
+			<annotation>ТНТ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/11/tnt.jpg</image>
+			<location>udp://@239.64.64.11:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>СТС</title>
+			<album>Развлекательные</album>
+			<annotation>СТС</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/13/sts.jpg</image>
+			<location>udp://@239.64.64.13:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>РЕН</title>
+			<album>Развлекательные</album>
+			<annotation>РЕН</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/8/ren.jpg</image>
+			<location>udp://@239.64.64.8:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>ОТР</title>
+			<album>Обо всем</album>
+			<annotation>ОТР</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/226/otr.jpg</image>
+			<location>udp://@239.64.64.109:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>226</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Россия К</title>
+			<album>Обо всем</album>
+			<annotation>Россия К</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/10/rossiya_k.jpg</image>
+			<location>udp://@239.64.64.10:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>24 Техно</title>
+			<album>Познавательные</album>
+			<annotation>24 Техно</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/133/24_tehno.jpg</image>
+			<location>udp://@239.64.64.72:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>2KOM ИНФО</title>
+			<album>2KOM</album>
+			<annotation>2KOM ИНФО</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/72/2kom_info.jpg</image>
+			<location>udp://@239.64.64.254:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>2x2</title>
+			<album>Развлекательные</album>
+			<annotation>2x2</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/44/2x2.jpg</image>
+			<location>udp://@239.64.64.12:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>360° Подмосковье</title>
+			<album>Обо всем</album>
+			<annotation>360° Подмосковье</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/106/360°_podmoskov'e.jpg</image>
+			<location>udp://@239.64.64.66:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>360° Подмосковье HD</title>
+			<album>HD</album>
+			<annotation>360° Подмосковье HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/108/360°_podmoskov'e_hd.jpg</image>
+			<location>udp://@239.64.64.139:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>8 Канал</title>
+			<album>Обо всем</album>
+			<annotation>8 Канал</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/73/8_kanal.jpg</image>
+			<location>udp://@239.64.64.58:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>A-One</title>
+			<album>Музыка и стиль</album>
+			<annotation>A-One</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/4/a-one.jpg</image>
+			<location>udp://@239.64.64.4:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Amazing Life</title>
+			<album>Разное</album>
+			<annotation>Amazing Life</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/37/amazing_life.jpg</image>
+			<location>udp://@239.64.64.28:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>BridgeTV</title>
+			<album>Музыка и стиль</album>
+			<annotation>BridgeTV</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/3/bridgetv.jpg</image>
+			<location>udp://@239.64.64.3:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Comedy TV</title>
+			<album>Развлекательные</album>
+			<annotation>Comedy TV</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/152/comedy_tv.jpg</image>
+			<location>udp://@239.64.64.61:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Deutsche Welle</title>
+			<album>Бизнес и новости</album>
+			<annotation>Deutsche Welle</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/34/deutsche_welle.jpg</image>
+			<location>udp://@239.64.64.52:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Disney</title>
+			<album>Детям</album>
+			<annotation>Disney</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/2/disney.jpg</image>
+			<location>udp://@239.64.64.2:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Europa Plus TV</title>
+			<album>Музыка и стиль</album>
+			<annotation>Europa Plus TV</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/140/europa_plus_tv.jpg</image>
+			<location>udp://@239.64.64.74:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Eurosport</title>
+			<album>Спорт</album>
+			<annotation>Eurosport</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/121/eurosport.jpg</image>
+			<location>udp://@239.64.64.92:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Eurosport 2</title>
+			<album>Спорт</album>
+			<annotation>Eurosport 2</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/31/eurosport_2.jpg</image>
+			<location>udp://@239.64.64.103:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Eurosport HD</title>
+			<album>HD</album>
+			<annotation>Eurosport HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/94/eurosport_hd.jpg</image>
+			<location>udp://@239.64.64.89:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Eurosport News</title>
+			<album>Спорт</album>
+			<annotation>Eurosport News</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/32/eurosport_news.jpg</image>
+			<location>udp://@239.64.64.104:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>FOX</title>
+			<album>Кино</album>
+			<annotation>FOX</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/223/fox.jpg</image>
+			<location>udp://@239.64.64.91:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>223</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>FOX HD</title>
+			<album>HD</album>
+			<annotation>FOX HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/195/fox_hd.jpg</image>
+			<location>udp://@239.64.64.106:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>195</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>FOX LIFE HD</title>
+			<album>HD</album>
+			<annotation>FOX LIFE HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/69/fox_life_hd.jpg</image>
+			<location>udp://@239.64.64.107:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>FOX Life</title>
+			<album>Кино</album>
+			<annotation>FOX Life</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/222/fox_life.jpg</image>
+			<location>udp://@239.64.64.99:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>222</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>France 24 English</title>
+			<album>Бизнес и новости</album>
+			<annotation>France 24 English</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/97/france_24_english.jpg</image>
+			<location>udp://@239.64.64.54:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>France 24 Francais</title>
+			<album>Бизнес и новости</album>
+			<annotation>France 24 Francais</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/33/france_24_francais.jpg</image>
+			<location>udp://@239.64.64.53:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Global Star TV</title>
+			<album>Разное</album>
+			<annotation>Global Star TV</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/105/global_star_tv.jpg</image>
+			<location>udp://@239.64.64.59:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>HardLife</title>
+			<album>Разное</album>
+			<annotation>HardLife</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/199/hardlife.jpg</image>
+			<location>udp://@239.64.64.94:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>199</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>LifeNews</title>
+			<album>Бизнес и новости</album>
+			<annotation>LifeNews</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/252/lifenews.jpg</image>
+			<location>udp://@239.64.64.126:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>252</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>MGM Channel</title>
+			<album>Кино</album>
+			<annotation>MGM Channel</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/60/mgm_channel.jpg</image>
+			<location>udp://@239.64.64.56:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>MGM HD</title>
+			<album>HD</album>
+			<annotation>MGM HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/221/mgm_hd.jpg</image>
+			<location>udp://@239.64.64.78:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>221</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>MTV</title>
+			<album>Музыка и стиль</album>
+			<annotation>MTV</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/255/mtv.jpg</image>
+			<location>udp://@239.64.64.133:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>255</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>MTV Hits</title>
+			<album>Музыка и стиль</album>
+			<annotation>MTV Hits</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/256/mtv_hits.jpg</image>
+			<location>udp://@239.64.64.134:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>256</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>MTV Rocks</title>
+			<album>Музыка и стиль</album>
+			<annotation>MTV Rocks</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/257/mtv_rocks.jpg</image>
+			<location>udp://@239.64.64.135:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>257</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Music Box TV</title>
+			<album>Музыка и стиль</album>
+			<annotation>Music Box TV</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/43/music_box_tv.jpg</image>
+			<location>udp://@239.64.64.32:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>NHK World</title>
+			<album>Бизнес и новости</album>
+			<annotation>NHK World</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/153/nhk_world.jpg</image>
+			<location>udp://@239.64.64.84:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Nat Geo Wild HD</title>
+			<album>HD</album>
+			<annotation>Nat Geo Wild HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/211/nat_geo_wild_hd.jpg</image>
+			<location>udp://@239.64.64.43:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>211</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>National Geographic Channel HD</title>
+			<album>HD</album>
+			<annotation>National Geographic Channel HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/12/national_geographic_channel_hd.jpg</image>
+			<location>udp://@239.64.64.42:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Nick Jr.</title>
+			<album>Детям</album>
+			<annotation>Nick Jr.</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/254/nick_jr..jpg</image>
+			<location>udp://@239.64.64.132:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>254</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Nickelodeon</title>
+			<album>Детям</album>
+			<annotation>Nickelodeon</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/237/nickelodeon.jpg</image>
+			<location>udp://@239.64.64.131:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>237</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Nickelodeon HD</title>
+			<album>HD</album>
+			<annotation>Nickelodeon HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/258/nickelodeon_hd.jpg</image>
+			<location>udp://@239.64.64.130:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>258</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Paramount Comedy</title>
+			<album>Кино</album>
+			<annotation>Paramount Comedy</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/253/paramount_comedy.jpg</image>
+			<location>udp://@239.64.64.129:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>253</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>RTД</title>
+			<album>Бизнес и новости</album>
+			<annotation>RTД</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/230/rtd.jpg</image>
+			<location>udp://@239.64.64.114:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>230</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>RTД HD</title>
+			<album>HD</album>
+			<annotation>RTД HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/63/rtd_hd.jpg</image>
+			<location>udp://@239.64.64.113:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>RTД Rus HD</title>
+			<album>HD</album>
+			<annotation>RTД Rus HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/261/rtd_rus_hd.jpg</image>
+			<location>udp://@239.64.64.138:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>261</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>RU.TV</title>
+			<album>Музыка и стиль</album>
+			<annotation>RU.TV</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/5/ru.tv.jpg</image>
+			<location>udp://@239.64.64.5:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>RUSONG TV</title>
+			<album>Музыка и стиль</album>
+			<annotation>RUSONG TV</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/96/rusong_tv.jpg</image>
+			<location>udp://@239.64.64.57:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Russia Today</title>
+			<album>Бизнес и новости</album>
+			<annotation>Russia Today</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/75/russia_today.jpg</image>
+			<location>udp://@239.64.64.51:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Russia Today HD</title>
+			<album>HD</album>
+			<annotation>Russia Today HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/229/russia_today_hd.jpg</image>
+			<location>udp://@239.64.64.112:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>229</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Russian Music Box</title>
+			<album>Музыка и стиль</album>
+			<annotation>Russian Music Box</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/42/russian_music_box.jpg</image>
+			<location>udp://@239.64.64.31:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Russian Travel Guide</title>
+			<album>Познавательные</album>
+			<annotation>Russian Travel Guide</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/65/russian_travel_guide.jpg</image>
+			<location>udp://@239.64.64.55:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Shant TV</title>
+			<album>Разное</album>
+			<annotation>Shant TV</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/262/shant_tv.jpg</image>
+			<location>udp://@239.64.64.142:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>262</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>World Fashion Channel</title>
+			<album>Музыка и стиль</album>
+			<annotation>World Fashion Channel</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/47/world_fashion_channel.jpg</image>
+			<location>udp://@239.64.64.50:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>АМЕДИА 1</title>
+			<album>Кино</album>
+			<annotation>АМЕДИА 1</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/206/amedia_1.jpg</image>
+			<location>udp://@239.64.64.121:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>206</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>АМЕДИА 2</title>
+			<album>Кино</album>
+			<annotation>АМЕДИА 2</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/235/amedia_2.jpg</image>
+			<location>udp://@239.64.64.122:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>235</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>АМЕДИА Premium HD</title>
+			<album>HD</album>
+			<annotation>АМЕДИА Premium HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/236/amedia_premium_hd.jpg</image>
+			<location>udp://@239.64.64.123:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>236</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Авто 24</title>
+			<album>Познавательные</album>
+			<annotation>Авто 24</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/251/avto_24.jpg</image>
+			<location>udp://@239.64.64.127:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>251</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>АвтоПлюс</title>
+			<album>Разное</album>
+			<annotation>АвтоПлюс</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/40/avtoplyus.jpg</image>
+			<location>udp://@239.64.64.90:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Агро ТВ</title>
+			<album>Разное</album>
+			<annotation>Агро ТВ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/141/agro_tv.jpg</image>
+			<location>udp://@239.64.64.40:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>БСТ</title>
+			<album>Разное</album>
+			<annotation>БСТ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/139/bst.jpg</image>
+			<location>udp://@239.64.64.75:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Беларусь 24</title>
+			<album>Обо всем</album>
+			<annotation>Беларусь 24</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/239/belarus'_24.jpg</image>
+			<location>udp://@239.64.64.119:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>239</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Боец</title>
+			<album>Спорт</album>
+			<annotation>Боец</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/186/boec.jpg</image>
+			<location>udp://@239.64.64.96:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Бойцовский клуб</title>
+			<album>Спорт</album>
+			<annotation>Бойцовский клуб</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/196/boycovskiy_klub.jpg</image>
+			<location>udp://@239.64.64.115:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>196</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Доверие</title>
+			<album>Обо всем</album>
+			<annotation>Доверие</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/26/doverie.jpg</image>
+			<location>udp://@239.64.64.26:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Дождь</title>
+			<album>Бизнес и новости</album>
+			<annotation>Дождь</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/205/dozhd'.jpg</image>
+			<location>udp://@239.64.64.210:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>205</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Домашний</title>
+			<album>Развлекательные</album>
+			<annotation>Домашний</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/14/domashniy.jpg</image>
+			<location>udp://@239.64.64.14:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Домашний магазин</title>
+			<album>Разное</album>
+			<annotation>Домашний магазин</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/107/domashniy_magazin.jpg</image>
+			<location>udp://@239.64.64.67:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Еда</title>
+			<album>Познавательные</album>
+			<annotation>Еда</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/161/eda.jpg</image>
+			<location>udp://@239.64.64.45:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Еда HD</title>
+			<album>HD</album>
+			<annotation>Еда HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/70/eda_hd.jpg</image>
+			<location>udp://@239.64.64.105:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Живи!</title>
+			<album>Спорт</album>
+			<annotation>Живи!</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/160/zhivi!.jpg</image>
+			<location>udp://@239.64.64.82:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Звезда</title>
+			<album>Разное</album>
+			<annotation>Звезда</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/57/zvezda.jpg</image>
+			<location>udp://@239.64.64.47:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Зоо TV</title>
+			<album>Познавательные</album>
+			<annotation>Зоо TV</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/150/zoo_tv.jpg</image>
+			<location>udp://@239.64.64.81:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Индия ТВ</title>
+			<album>Кино</album>
+			<annotation>Индия ТВ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/174/indiya_tv.jpg</image>
+			<location>udp://@239.64.64.95:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>История</title>
+			<album>Познавательные</album>
+			<annotation>История</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/238/istoriya.jpg</image>
+			<location>udp://@239.64.64.117:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>238</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>КХЛ</title>
+			<album>Спорт</album>
+			<annotation>КХЛ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/243/khl.jpg</image>
+			<location>udp://@239.64.64.128:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>243</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Карусель</title>
+			<album>Детям</album>
+			<annotation>Карусель</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/28/karusel'.jpg</image>
+			<location>udp://@239.64.64.36:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Кино ТВ</title>
+			<album>Кино</album>
+			<annotation>Кино ТВ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/45/kino_tv.jpg</image>
+			<location>udp://@239.64.64.23:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Кинолюкс</title>
+			<album>Кино</album>
+			<annotation>Кинолюкс</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/220/kinolyuks.jpg</image>
+			<location>udp://@239.64.64.102:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>220</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Кинопоказ</title>
+			<album>Кино</album>
+			<annotation>Кинопоказ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/148/kinopokaz.jpg</image>
+			<location>udp://@239.64.64.80:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Комсомольская правда</title>
+			<album>Бизнес и новости</album>
+			<annotation>Комсомольская правда</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/191/komsomol'skaya_pravda.jpg</image>
+			<location>udp://@239.64.64.85:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>191</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Кто есть кто</title>
+			<album>Познавательные</album>
+			<annotation>Кто есть кто</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/154/kto_est'_kto.jpg</image>
+			<location>udp://@239.64.64.76:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>МИР</title>
+			<album>Обо всем</album>
+			<annotation>МИР</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/22/mir.jpg</image>
+			<location>udp://@239.64.64.22:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>МИР HD</title>
+			<album>HD</album>
+			<annotation>МИР HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/264/mir_hd.jpg</image>
+			<location>udp://@239.64.64.140:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>264</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>МИР24</title>
+			<album>Бизнес и новости</album>
+			<annotation>МИР24</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/263/mir24.jpg</image>
+			<location>rtp://@239.64.64.141:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>263</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Москва 24</title>
+			<album>Бизнес и новости</album>
+			<annotation>Москва 24</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/163/moskva_24.jpg</image>
+			<location>udp://@239.64.64.86:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Моя планета</title>
+			<album>Познавательные</album>
+			<annotation>Моя планета</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/64/moya_planeta.jpg</image>
+			<location>udp://@239.64.64.68:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Муз ТВ</title>
+			<album>Музыка и стиль</album>
+			<annotation>Муз ТВ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/198/muz_tv.jpg</image>
+			<location>udp://@239.64.64.44:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>198</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Мультимания</title>
+			<album>Детям</album>
+			<annotation>Мультимания</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/189/mul'timaniya.jpg</image>
+			<location>udp://@239.64.64.87:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>НСТ</title>
+			<album>Кино</album>
+			<annotation>НСТ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/137/nst.jpg</image>
+			<location>udp://@239.64.64.73:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>НТВ Баскетбол</title>
+			<album>Спорт</album>
+			<annotation>НТВ Баскетбол</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/242/ntv_basketbol.jpg</image>
+			<location>udp://@239.64.64.39:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>242</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>НТВ Наш футбол HD</title>
+			<album>HD</album>
+			<annotation>НТВ Наш футбол HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/241/ntv_nash_futbol_hd.jpg</image>
+			<location>udp://@239.64.64.125:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>241</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>НТВ Спорт плюс</title>
+			<album>Спорт</album>
+			<annotation>НТВ Спорт плюс</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/240/ntv_sport_plyus.jpg</image>
+			<location>udp://@239.64.64.120:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>240</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>НТВ СпортХит HD</title>
+			<album>HD</album>
+			<annotation>НТВ СпортХит HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/259/ntv_sporthit_hd.jpg</image>
+			<location>udp://@239.64.64.136:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>259</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Нано ТВ</title>
+			<album>Познавательные</album>
+			<annotation>Нано ТВ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/156/nano_tv.jpg</image>
+			<location>udp://@239.64.64.60:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Наука 2.0</title>
+			<album>Познавательные</album>
+			<annotation>Наука 2.0</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/136/nauka_2.0.jpg</image>
+			<location>udp://@239.64.64.65:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Оружие</title>
+			<album>Познавательные</album>
+			<annotation>Оружие</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/147/oruzhie.jpg</image>
+			<location>udp://@239.64.64.64:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>ПЕРЕЦ</title>
+			<album>Развлекательные</album>
+			<annotation>ПЕРЕЦ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/20/perec.jpg</image>
+			<location>udp://@239.64.64.20:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>ПИК-ТВ</title>
+			<album>Музыка и стиль</album>
+			<annotation>ПИК-ТВ</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/231/pik-tv.jpg</image>
+			<location>udp://@239.64.64.111:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>231</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>ПИК-ТВ HD</title>
+			<album>HD</album>
+			<annotation>ПИК-ТВ HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/228/pik-tv_hd.jpg</image>
+			<location>udp://@239.64.64.110:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>228</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Первый Образовательный</title>
+			<album>Познавательные</album>
+			<annotation>Первый Образовательный</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/48/pervyy_obrazovatel'nyy.jpg</image>
+			<location>udp://@239.64.64.34:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Первый канал HD</title>
+			<album>HD</album>
+			<annotation>Первый канал HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/224/pervyy_kanal_hd.jpg</image>
+			<location>udp://@239.64.64.79:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>224</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Пятница</title>
+			<album>Развлекательные</album>
+			<annotation>Пятница</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/18/pyatnica.jpg</image>
+			<location>udp://@239.64.64.18:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>РБК</title>
+			<album>Бизнес и новости</album>
+			<annotation>РБК</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/1/rbk.jpg</image>
+			<location>udp://@239.64.64.1:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>РЖД</title>
+			<album>Разное</album>
+			<annotation>РЖД</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/59/rzhd.jpg</image>
+			<location>udp://@239.64.64.70:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Радость моя</title>
+			<album>Детям</album>
+			<annotation>Радость моя</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/36/radost'_moya.jpg</image>
+			<location>udp://@239.64.64.29:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Россия 2</title>
+			<album>Спорт</album>
+			<annotation>Россия 2</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/52/rossiya_2.jpg</image>
+			<location>udp://@239.64.64.38:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Россия 24</title>
+			<album>Бизнес и новости</album>
+			<annotation>Россия 24</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/41/rossiya_24.jpg</image>
+			<location>udp://@239.64.64.30:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Россия HD</title>
+			<album>HD</album>
+			<annotation>Россия HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/219/rossiya_hd.jpg</image>
+			<location>udp://@239.64.64.25:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>219</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Русский Роман</title>
+			<album>Кино</album>
+			<annotation>Русский Роман</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/103/russkiy_roman.jpg</image>
+			<location>udp://@239.64.64.101:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Русский Экстрим</title>
+			<album>Спорт</album>
+			<annotation>Русский Экстрим</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/131/russkiy_Еkstrim.jpg</image>
+			<location>udp://@239.64.64.71:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Русский бестселлер</title>
+			<album>Кино</album>
+			<annotation>Русский бестселлер</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/125/russkiy_bestseller.jpg</image>
+			<location>udp://@239.64.64.116:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>СТС Love</title>
+			<album>Развлекательные</album>
+			<annotation>СТС Love</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/260/sts_love.jpg</image>
+			<location>udp://@239.64.64.124:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>260</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Сарафан</title>
+			<album>Развлекательные</album>
+			<annotation>Сарафан</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/39/sarafan.jpg</image>
+			<location>udp://@239.64.64.48:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Смена</title>
+			<album>Познавательные</album>
+			<annotation>Смена</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/24/smena.jpg</image>
+			<location>udp://@239.64.64.93:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Совершенно секретно</title>
+			<album>Познавательные</album>
+			<annotation>Совершенно секретно</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/104/sovershenno_sekretno.jpg</image>
+			<location>udp://@239.64.64.108:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Союз</title>
+			<album>Разное</album>
+			<annotation>Союз</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/16/soyuz.jpg</image>
+			<location>udp://@239.64.64.16:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Спас</title>
+			<album>Разное</album>
+			<annotation>Спас</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/162/spas.jpg</image>
+			<location>udp://@239.64.64.83:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Спорт</title>
+			<album>Спорт</album>
+			<annotation>Спорт</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/145/sport.jpg</image>
+			<location>udp://@239.64.64.118:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Спорт 1</title>
+			<album>Спорт</album>
+			<annotation>Спорт 1</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/144/sport_1.jpg</image>
+			<location>udp://@239.64.64.63:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Спорт 1 HD</title>
+			<album>HD</album>
+			<annotation>Спорт 1 HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/203/sport_1_hd.jpg</image>
+			<location>udp://@239.64.64.77:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>203</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Стиль и Мода</title>
+			<album>Разное</album>
+			<annotation>Стиль и Мода</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/193/stil'_i_moda.jpg</image>
+			<location>udp://@239.64.64.88:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>193</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Страна</title>
+			<album>Разное</album>
+			<annotation>Страна</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/62/strana.jpg</image>
+			<location>udp://@239.64.64.27:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>ТВ3</title>
+			<album>Развлекательные</album>
+			<annotation>ТВ3</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/17/tv3.jpg</image>
+			<location>udp://@239.64.64.17:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>ТДК</title>
+			<album>Разное</album>
+			<annotation>ТДК</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/46/tdk.jpg</image>
+			<location>udp://@239.64.64.37:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>ТРО Союз</title>
+			<album>Разное</album>
+			<annotation>ТРО Союз</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/54/tro_soyuz.jpg</image>
+			<location>udp://@239.64.64.49:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>ТТС</title>
+			<album>Разное</album>
+			<annotation>ТТС</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/49/tts.jpg</image>
+			<location>udp://@239.64.64.41:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Татарстан - Планета</title>
+			<album>Разное</album>
+			<annotation>Татарстан - Планета</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/53/tatarstan_-_planeta.jpg</image>
+			<location>udp://@239.64.64.62:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Телепутешествия HD</title>
+			<album>HD</album>
+			<annotation>Телепутешествия HD</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/204/teleputeshestviya_hd.jpg</image>
+			<location>udp://@239.64.64.100:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>204</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Улыбка ребенка</title>
+			<album>Детям</album>
+			<annotation>Улыбка ребенка</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/142/ulybka_rebenka.jpg</image>
+			<location>udp://@239.64.64.46:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Феникс+Кино</title>
+			<album>Кино</album>
+			<annotation>Феникс+Кино</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/146/feniks+kino.jpg</image>
+			<location>udp://@239.64.64.69:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<title>Ю</title>
+			<album>Развлекательные</album>
+			<annotation>Ю</annotation>
+			<image>http://portal.2kom.ru/tvchannel_logo/15/yu.jpg</image>
+			<location>udp://@239.64.64.15:1234</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:node title="HD">
+			<vlc:item tid="108" />
+			<vlc:item tid="94" />
+			<vlc:item tid="195" />
+			<vlc:item tid="69" />
+			<vlc:item tid="221" />
+			<vlc:item tid="211" />
+			<vlc:item tid="12" />
+			<vlc:item tid="258" />
+			<vlc:item tid="63" />
+			<vlc:item tid="261" />
+			<vlc:item tid="229" />
+			<vlc:item tid="236" />
+			<vlc:item tid="70" />
+			<vlc:item tid="264" />
+			<vlc:item tid="241" />
+			<vlc:item tid="259" />
+			<vlc:item tid="228" />
+			<vlc:item tid="224" />
+			<vlc:item tid="219" />
+			<vlc:item tid="203" />
+			<vlc:item tid="204" />
+		</vlc:node>
+		<vlc:node title="Бизнес и новости">
+			<vlc:item tid="34" />
+			<vlc:item tid="97" />
+			<vlc:item tid="33" />
+			<vlc:item tid="252" />
+			<vlc:item tid="153" />
+			<vlc:item tid="230" />
+			<vlc:item tid="75" />
+			<vlc:item tid="205" />
+			<vlc:item tid="191" />
+			<vlc:item tid="263" />
+			<vlc:item tid="163" />
+			<vlc:item tid="1" />
+			<vlc:item tid="41" />
+		</vlc:node>
+		<vlc:node title="Детям">
+			<vlc:item tid="2" />
+			<vlc:item tid="254" />
+			<vlc:item tid="237" />
+			<vlc:item tid="28" />
+			<vlc:item tid="189" />
+			<vlc:item tid="36" />
+			<vlc:item tid="142" />
+		</vlc:node>
+		<vlc:node title="Кино">
+			<vlc:item tid="223" />
+			<vlc:item tid="222" />
+			<vlc:item tid="60" />
+			<vlc:item tid="253" />
+			<vlc:item tid="206" />
+			<vlc:item tid="235" />
+			<vlc:item tid="174" />
+			<vlc:item tid="45" />
+			<vlc:item tid="220" />
+			<vlc:item tid="148" />
+			<vlc:item tid="137" />
+			<vlc:item tid="103" />
+			<vlc:item tid="125" />
+			<vlc:item tid="146" />
+		</vlc:node>
+		<vlc:node title="Музыка и стиль">
+			<vlc:item tid="4" />
+			<vlc:item tid="3" />
+			<vlc:item tid="140" />
+			<vlc:item tid="255" />
+			<vlc:item tid="256" />
+			<vlc:item tid="257" />
+			<vlc:item tid="43" />
+			<vlc:item tid="5" />
+			<vlc:item tid="96" />
+			<vlc:item tid="42" />
+			<vlc:item tid="47" />
+			<vlc:item tid="198" />
+			<vlc:item tid="231" />
+		</vlc:node>
+		<vlc:node title="Обо всем">
+			<vlc:item tid="27" />
+			<vlc:item tid="9" />
+			<vlc:item tid="7" />
+			<vlc:item tid="6" />
+			<vlc:item tid="21" />
+			<vlc:item tid="226" />
+			<vlc:item tid="10" />
+			<vlc:item tid="106" />
+			<vlc:item tid="73" />
+			<vlc:item tid="239" />
+			<vlc:item tid="26" />
+			<vlc:item tid="22" />
+		</vlc:node>
+		<vlc:node title="Спорт">
+			<vlc:item tid="121" />
+			<vlc:item tid="31" />
+			<vlc:item tid="32" />
+			<vlc:item tid="186" />
+			<vlc:item tid="196" />
+			<vlc:item tid="160" />
+			<vlc:item tid="243" />
+			<vlc:item tid="242" />
+			<vlc:item tid="240" />
+			<vlc:item tid="52" />
+			<vlc:item tid="131" />
+			<vlc:item tid="145" />
+			<vlc:item tid="144" />
+		</vlc:node>
+		<vlc:node title="Познавательные">
+			<vlc:item tid="133" />
+			<vlc:item tid="65" />
+			<vlc:item tid="251" />
+			<vlc:item tid="161" />
+			<vlc:item tid="150" />
+			<vlc:item tid="238" />
+			<vlc:item tid="154" />
+			<vlc:item tid="64" />
+			<vlc:item tid="156" />
+			<vlc:item tid="136" />
+			<vlc:item tid="147" />
+			<vlc:item tid="48" />
+			<vlc:item tid="24" />
+			<vlc:item tid="104" />
+		</vlc:node>
+		<vlc:node title="Развлекательные">
+			<vlc:item tid="11" />
+			<vlc:item tid="13" />
+			<vlc:item tid="8" />
+			<vlc:item tid="44" />
+			<vlc:item tid="152" />
+			<vlc:item tid="14" />
+			<vlc:item tid="20" />
+			<vlc:item tid="18" />
+			<vlc:item tid="260" />
+			<vlc:item tid="39" />
+			<vlc:item tid="17" />
+			<vlc:item tid="15" />
+		</vlc:node>
+		<vlc:node title="Разное">
+			<vlc:item tid="37" />
+			<vlc:item tid="105" />
+			<vlc:item tid="199" />
+			<vlc:item tid="262" />
+			<vlc:item tid="40" />
+			<vlc:item tid="141" />
+			<vlc:item tid="139" />
+			<vlc:item tid="107" />
+			<vlc:item tid="57" />
+			<vlc:item tid="59" />
+			<vlc:item tid="16" />
+			<vlc:item tid="162" />
+			<vlc:item tid="193" />
+			<vlc:item tid="62" />
+			<vlc:item tid="46" />
+			<vlc:item tid="54" />
+			<vlc:item tid="49" />
+			<vlc:item tid="53" />
+		</vlc:node>
+		<vlc:node title="2KOM">
+			<vlc:item tid="72" />
+		</vlc:node>
+	</extension>
+</playlist>
